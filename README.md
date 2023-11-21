@@ -20,8 +20,8 @@ A pet adoption app that connects  pet parents with furry companions in need. Bro
 **Profiles for Humans / future Pet parents**
 - Create detailed profiles for yourself, including photos, descriptions, living space
 
-**Delete Profiles**
-- successfully adopted animal profiles can be deleted as well as when you have found your animal.
+**Edit and delete Profiles**
+- you can endit the profile, change images, the text etc or successfully adopted animal profiles can be deleted.
 
 **Sorting by category / breed**
 - Users can sort the animal categories list by breed or location.
