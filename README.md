@@ -47,4 +47,8 @@ A pet adoption app that connects  pet parents with furry companions in need. Bro
 
 ### APIs
 - https://www.adoptapet.com/
-- https://www.petfinder.com/developers/ 
+- https://www.petfinder.com/developers/
+
+### Excalidraw
+![Tieradoption_idee](https://github.com/franziska-caroline/capstone-ideas/assets/143591286/f4f73587-658f-4eec-8aff-a88c3d8a9543)
+
